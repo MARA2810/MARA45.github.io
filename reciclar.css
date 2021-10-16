@@ -1,0 +1,9 @@
+body{
+    background-image: url(reciclaje.jpg);
+}
+.autor{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    color: rgb(170, 159, 159);
+}
